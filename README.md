@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Atultomar01/Atultomar01/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Atultomar01</h1>
 <h3 align="center">I'm a skilled web developer with a strong foundation from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
